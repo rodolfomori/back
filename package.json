@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "@prisma/client": "^5.14.0",
+    "express": "^4.19.2",
+    "mongoose": "^8.4.0"
+  },
+  "scripts": {
+    "start": "node --watch server.js"
+  },
+  "name": "back",
+  "type": "module",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {
+    "prisma": "^5.14.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
